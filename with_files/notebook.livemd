@@ -1,0 +1,15 @@
+<!-- livebook:{"file_entries":[{"name":"Brewfile","type":"attachment"},{"file":{"file_system_id":"local","path":"/Users/jonatanklosko/Brewfile.lock.json"},"name":"Brewfile.lock.json","type":"file"},{"name":"batman.jpeg","type":"attachment"},{"name":"cat.jpeg","type":"attachment"},{"name":"cat_link.jpeg","type":"url","url":"https://plus.unsplash.com/premium_photo-1667030489905-d8e6309ebe0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2F0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"}]} -->
+
+# With files
+
+## Section
+
+```elixir
+
+```
+
+![](files/batman.jpeg)
+
+<!-- livebook:{"break_markdown":true} -->
+
+![](files/cat.jpeg)
